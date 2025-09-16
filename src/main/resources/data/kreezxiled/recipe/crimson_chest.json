@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "# #",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "tag": "minecraft:crimson_stems"
+    }
+  },
+  "result": {
+    "id": "lolmcv:crimson_chest",
+    "count": 4
+  }
+}

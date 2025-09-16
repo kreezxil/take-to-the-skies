@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "pneumaticcraft:oil_bucket"
+    }
+  ],
+  "result": {
+    "id": "oritech:still_oil_bucket",
+    "count": 1
+  }
+}

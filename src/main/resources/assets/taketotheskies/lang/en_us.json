@@ -1,0 +1,13 @@
+{
+  "itemGroup.taketotheskies": "Take To The Skies Tab",
+  "block.taketotheskies.example_block": "Example Block",
+  "item.taketotheskies.example_item": "Example Item",
+
+  "taketotheskies.configuration.title": "Take To The Skies Configs",
+  "taketotheskies.configuration.section.taketotheskies.common.toml": "Take To The Skies Configs",
+  "taketotheskies.configuration.section.taketotheskies.common.toml.title": "Take To The Skies Configs",
+  "taketotheskies.configuration.items": "Item List",
+  "taketotheskies.configuration.logDirtBlock": "Log Dirt Block",
+  "taketotheskies.configuration.magicNumberIntroduction": "Magic Number Text",
+  "taketotheskies.configuration.magicNumber": "Magic Number"
+}

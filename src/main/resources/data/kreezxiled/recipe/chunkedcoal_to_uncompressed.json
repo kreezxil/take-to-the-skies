@@ -1,0 +1,14 @@
+{
+	"type":"minecraft:crafting_shapeless",
+	"group":"coal_chunk",
+	"category":"misc",
+	"ingredients":[
+		{
+			"item":"blocksyouneed_luna:coal_chunk"
+		}
+	],
+	"result": {
+		"id":"excompressum:uncompressed_coal",
+		"count":1
+	}
+}

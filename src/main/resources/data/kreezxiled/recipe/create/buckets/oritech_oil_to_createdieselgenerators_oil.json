@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "oritech:still_oil_bucket"
+    }
+  ],
+  "result": {
+    "id": "createdieselgenerators:crude_oil_bucket",
+    "count": 1
+  }
+}
