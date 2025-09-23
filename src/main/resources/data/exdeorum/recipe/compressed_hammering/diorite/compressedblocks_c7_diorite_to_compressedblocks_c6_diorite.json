@@ -1,0 +1,13 @@
+{
+  "type": "exdeorum:compressed_hammer",
+  "ingredient": [
+    {
+      "item": "compressedblocks:c7_diorite"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "compressedblocks:c6_diorite"
+  },
+  "result_amount": 9.0
+}

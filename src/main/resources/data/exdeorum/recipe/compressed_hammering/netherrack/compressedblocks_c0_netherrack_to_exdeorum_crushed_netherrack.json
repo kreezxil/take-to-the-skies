@@ -1,0 +1,13 @@
+{
+  "type": "exdeorum:compressed_hammer",
+  "ingredient": [
+    {
+      "item": "compressedblocks:c0_netherrack"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "exdeorum:crushed_netherrack"
+  },
+  "result_amount": 9.0
+}

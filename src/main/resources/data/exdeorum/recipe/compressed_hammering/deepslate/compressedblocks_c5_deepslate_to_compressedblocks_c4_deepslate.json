@@ -1,0 +1,13 @@
+{
+  "type": "exdeorum:compressed_hammer",
+  "ingredient": [
+    {
+      "item": "compressedblocks:c5_deepslate"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "compressedblocks:c4_deepslate"
+  },
+  "result_amount": 9.0
+}

@@ -1,0 +1,13 @@
+{
+  "type": "exdeorum:compressed_hammer",
+  "ingredient": [
+    {
+      "item": "compressedblocks:c5_blackstone"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "compressedblocks:c4_blackstone"
+  },
+  "result_amount": 9.0
+}
