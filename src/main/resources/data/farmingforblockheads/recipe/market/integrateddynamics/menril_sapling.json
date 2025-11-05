@@ -1,0 +1,9 @@
+{
+  "type": "farmingforblockheads:market",
+  "category": "farmingforblockheads:seeds",
+  "preset": "minecraft:saplings",
+  "result": {
+    "count": 1,
+    "item": "integrateddynamics:menril_sapling"
+  }
+}

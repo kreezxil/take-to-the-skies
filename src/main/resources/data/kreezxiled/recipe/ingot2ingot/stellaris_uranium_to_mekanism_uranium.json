@@ -1,0 +1,14 @@
+{
+  "type":"minecraft:crafting_shapeless",
+  "group":"ingot",
+  "category":"misc",
+  "ingredients":[
+    {
+      "item":"stellaris:uranium_ingot"
+    }
+  ],
+  "result": {
+    "id":"mekanism:ingot_uranium",
+    "count":1
+  }
+}
